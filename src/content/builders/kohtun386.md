@@ -1,4 +1,5 @@
----name: Htun Htun Win
+---
+name: Htun Htun Win
 github: kohtun386
 cohort: 1
 role: builder
@@ -7,7 +8,7 @@ repo: https://github.com/kohtun386/jade-erp
 linkedin: ko-htun-htun-win-146970102
 ---
 
-Hi! I'm an Operations and Business Development leader with 10+ years of senior management experience. I'm here to transition into a full-stack SaaS Product Owner, leveraging multi-agent AI frameworks to build scalable systems. I want to build JadeFlow ERP (V4), a mobile-first ERP SaaS platform with strict data integrity and double-entry financial ledger logic for manufacturing SMEs.
+Hi! I'm an Operations and Business Development leader with 10+ years of senior management experience. I'm here to transition into a full-stack SaaS Product Owner, leveraging multi-agent AI frameworks to build scalable systems. I want to build JadeFlow ERP, a mobile-first ERP SaaS platform with strict data integrity and double-entry financial ledger logic for manufacturing SMEs.
 
 <!--
 HOW TO ADD YOURSELF:
